@@ -1,0 +1,17 @@
+.party {
+    flex: 1 1 300px;
+    max-height: 200px;
+    padding: 12px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+}
+
+#parties {
+    display: flex;
+    flex-flow: row wrap;
+    list-style: none;
+    padding: 0;
+}
+
